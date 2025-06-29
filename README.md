@@ -3,4 +3,4 @@
 ---
 
 ## demo repo
-I just here to master git
+I am just here to master git.
